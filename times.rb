@@ -1,4 +1,5 @@
 def using_times
+  counter = 0
 	loop do 
   counter += 1
   puts "Wingardium Leviosa"
@@ -7,7 +8,6 @@ def using_times
    end
   end
 end
-
 
 
 
